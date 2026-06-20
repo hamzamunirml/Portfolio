@@ -4,7 +4,7 @@
 
 I build and deploy practical machine learning systems — from data pipelines and model training to production-ready web apps. Currently exploring deep learning, NLP, and ML monitoring/deployment workflows.
 
-🌐 **Live Portfolio Site:** [hamzamunirml.github.io/portfolio](https://hamzamunirml.github.io/portfolio/)
+🌐 **Live Portfolio Site:** [hamzamunirml.github.io/portfolio]( https://hamzamunirml.github.io/Portfolio/)
 
 ---
 
