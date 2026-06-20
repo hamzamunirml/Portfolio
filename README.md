@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Munir 👋
 
-**AI/ML Engineer** | CS Student at KFUEIT
+**AI/ML Engineer**  
 
 I build and deploy practical machine learning systems — from data pipelines and model training to production-ready web apps. Currently exploring deep learning, NLP, and ML monitoring/deployment workflows.
 
@@ -33,9 +33,9 @@ I'm a Computer Science student passionate about Machine Learning, Data Analysis,
 | [Production ML Monitoring](https://github.com/hamzamunirml/Production-ML-Monitoring) | End-to-end ML system for bank marketing prediction with a live monitoring dashboard | Random Forest, Flask, Streamlit |
 | [Brain Tumor Detection](https://github.com/hamzamunirml/Brain-Tumor-Detection-System-MRI-) | CNN-based classifier for detecting brain tumors from MRI scans | TensorFlow, Keras, CNN |
 | [Auto MPG Predictor](https://github.com/hamzamunirml/Auto-MPG-Prediction) | Multi-model regression dashboard predicting vehicle fuel efficiency | Random Forest, Streamlit |
+| Dysarthric Speech Detection (https://github.com/hamzamunirml/Dysarthria_Speech_Detection) | Detects speech impairment using MFCC features from the TORGO dataset | DNN, MFCC |
 | VerifAI – Fake Claim Verification *(coming soon)* | BERT-based fact-checking system with a custom dark-themed web frontend | BERT, Flask, NLP |
-| Speech-to-Text Summarizer *(coming soon)* | Pipeline that transcribes audio and generates concise summaries | Whisper, T5 |
-| Dysarthric Speech Detection *(coming soon)* | Detects speech impairment using MFCC features from the TORGO dataset | DNN, MFCC |
+
 
 ---
 
